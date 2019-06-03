@@ -72,7 +72,7 @@ screen and (orientation: landscape) {
 </p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校３０期、還暦祝い写真集 !!!</marquee></span></h1>
-<p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>写真集</p>
+<p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>>写真集</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
