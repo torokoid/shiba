@@ -80,7 +80,7 @@ screen and (orientation: landscape) {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年6月1日、還暦祝い@池袋 !!!</marquee></span></h2>
 -->
-<p><span class="yellow">代表幹事の、６組増子さん</span></p>
+<p><span class="yellow">３組柴崎さん提供</span></p>
 <a href="20190603_001.JPG" data-lightbox="abc"><img src="20190603_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190603_002.png" data-lightbox="abc"><img src="20190603_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20190603_003.png" data-lightbox="abc"><img src="20190603_003.png" alt="サンプル画像" width="900" /></a>
