@@ -112,7 +112,6 @@ screen and (orientation: landscape) {
 <br>
 <h2>
 <a href="https://photos.google.com/share/AF1QipO8O4Hsh-J1sTwbm91kvdOz9Q9JOa34rA6A_WmYvPvtwnNMuxxitry1Qi2hmw1BZg?key=SmYxZVRuaXMxazlGd0h4WWI3a2Z0ZWhoalAwVU5n" target="_blank">３組、長野さん、３組、Bruce東さん配信画像リンク</a></h2><p>PassWD無し</p>
-</h2>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
