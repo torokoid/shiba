@@ -80,7 +80,7 @@ screen and (orientation: landscape) {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年6月1日、還暦祝い@池袋 !!!</marquee></span></h2>
 -->
-<p><span class="yellow">３組柴崎さん提供</span></p>
+<p><span class="yellow">３組柴崎さん提供、サムネイルと元画像リンク</span></p>
 <a href="20190603_001.JPG" data-lightbox="abc"><img src="20190603_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190603_002.png" data-lightbox="abc"><img src="20190603_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20190603_003.png" data-lightbox="abc"><img src="20190603_003.png" alt="サンプル画像" width="900" /></a>
@@ -109,9 +109,13 @@ screen and (orientation: landscape) {
 <a href="20190603_026.png" data-lightbox="abc"><img src="20190603_026.png" alt="サンプル画像" width="900" /></a>
 <h2>
 <a href="https://nis.nikonimagespace.com/html/guest/ja/auth.html?g=Cykf7OF14D_qxGlWtP6wB-6au0bjRYfqZexrezV_RT9rzex5pQuo27E_bCvyiulkCc6NxTBMjcdqv-FUyE97Cw" target="_blank">３組、柴崎さん元画像リンク</a></h2><p>PassWD"ohizumi30"</p>
-<br>
+<br><br>
+<p><span class="yellow">３組、長野さん、３組、Bruce東さん提供、元画像リンクのみ</span></p>
 <h2>
-<a href="https://photos.google.com/share/AF1QipO8O4Hsh-J1sTwbm91kvdOz9Q9JOa34rA6A_WmYvPvtwnNMuxxitry1Qi2hmw1BZg?key=SmYxZVRuaXMxazlGd0h4WWI3a2Z0ZWhoalAwVU5n" target="_blank">３組、長野さん、３組、Bruce東さん配信画像リンク</a></h2><p>PassWD無し</p>
+<a href="https://photos.google.com/share/AF1QipO8O4Hsh-J1sTwbm91kvdOz9Q9JOa34rA6A_WmYvPvtwnNMuxxitry1Qi2hmw1BZg?key=SmYxZVRuaXMxazlGd0h4WWI3a2Z0ZWhoalAwVU5n" target="_blank">３組、長野さん、３組、Bruce東さん、元画像リンク</a></h2><p>PassWD無し</p>
+<br><br>
+<p><span class="yellow">１組、田中さん提供、サムネイルのみ</span></p>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
