@@ -115,7 +115,21 @@ screen and (orientation: landscape) {
 <a href="https://photos.google.com/share/AF1QipO8O4Hsh-J1sTwbm91kvdOz9Q9JOa34rA6A_WmYvPvtwnNMuxxitry1Qi2hmw1BZg?key=SmYxZVRuaXMxazlGd0h4WWI3a2Z0ZWhoalAwVU5n" target="_blank">３組、長野さん、３組、Bruce東さん、元画像リンク</a></h2><p>PassWD無し</p>
 <br><br>
 <p><span class="yellow">１組、田中さん提供、サムネイルのみ</span></p>
-
+<a href="20190601_001.png" data-lightbox="abc"><img src="20190601_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_002.png" data-lightbox="abc"><img src="20190601_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_003.png" data-lightbox="abc"><img src="20190601_003.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_004.png" data-lightbox="abc"><img src="20190601_004.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_005.png" data-lightbox="abc"><img src="20190601_005.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_006.png" data-lightbox="abc"><img src="20190601_006.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_007.png" data-lightbox="abc"><img src="20190601_007.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_008.png" data-lightbox="abc"><img src="20190601_008.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_009.png" data-lightbox="abc"><img src="20190601_009.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_010.png" data-lightbox="abc"><img src="20190601_010.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_011.png" data-lightbox="abc"><img src="20190601_011.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_012.png" data-lightbox="abc"><img src="20190601_012.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_013.png" data-lightbox="abc"><img src="20190601_013.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_014.png" data-lightbox="abc"><img src="20190601_014.png" alt="サンプル画像" width="900" /></a>
+<a href="20190601_015.png" data-lightbox="abc"><img src="20190601_015.png" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
