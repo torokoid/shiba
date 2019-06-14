@@ -159,11 +159,7 @@ screen and (orientation: landscape) {
 <script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script> 
-<!--
-<script type='text/javascript' src='https://webkaru.net/jquery/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script src="https://webkaru.net/jquery/wp-content/themes/webkaru10/js/jquery.goup.min.js"></script>
-<script src="https://webkaru.net/jquery/wp-content/themes/webkaru10/js/my.js"></script> 
--->
+
 <!-- フッタ -->
  <footer>
  <span class="white">Copyright 2019/06/03 Pe-Young(S.Hada)</span>
