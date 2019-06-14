@@ -155,10 +155,14 @@ screen and (orientation: landscape) {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
 <br><br>
-
+<!--
 <script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script> 
+-->
+<script type='text/javascript' src='https://webkaru.net/jquery/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script src="https://webkaru.net/jquery/wp-content/themes/webkaru10/js/jquery.goup.min.js"></script>
+<script src="https://webkaru.net/jquery/wp-content/themes/webkaru10/js/my.js"></script> 
 
 <!-- フッタ -->
  <footer>
